@@ -1,0 +1,7 @@
+Name	SamAccountName	GroupCategory	GroupScope	DisplayName	Path
+Sales Managers Edmonton	EDM_Sales_Managers	Security	Global	Sales Managers	"OU=Sales,OU=Edmonton,OU=DepartmentUsers,DC=SleepyGeeks,OU=com"
+HR  Managers Edmonton	EDM_HR _Managers	Security	Global	HR  Managers	"OU=HR,OU=Edmonton,OU=DepartmentUsers,DC=SleepyGeeks,OU=com"
+IT Managers Edmonton	EDM_IT_Managers	Security	Global	IT Managers	"OU=IT,OU=Edmonton,OU=DepartmentUsers,DC=SleepyGeeks,OU=com"
+Finance Managers Edmonton	EDM_Finance_Managers	Security	Global	Finance Managers	"OU=Finance,OU=Edmonton,OU=DepartmentUsers,DC=SleepyGeeks,OU=com"
+Remote IT  Managers Toronto	TOR_Remote_IT_ Managers	Security	Global	Toronto Remote IT  Managers	"OU=IT,OU=Toronto,OU=DepartmentUsers,DC=SleepyGeeks,OU=com"
+Remote IT  Managers Vancouver	VAN_Remote_IT_ Managers	Security	Global	Vancouver Remote_IT  Managers	"OU=IT,OU=Vancouver,OU=DepartmentUsers,DC=SleepyGeeks,OU=com"

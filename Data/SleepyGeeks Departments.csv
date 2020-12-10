@@ -1,0 +1,34 @@
+Path,Display Name,Name
+"DC=sleepygeeks,DC=com",Department Users,Department Users
+"DC=sleepygeeks,DC=com",Department Computers,Department Computers
+"OU=Department Computers,DC=sleepygeeks,DC=com",Department Servers,Department Servers
+"OU=Department Users,DC=sleepygeeks,DC=com",Edmonton Users,Edmonton Users
+"OU=Department Users,DC=sleepygeeks,DC=com",Vancouver Users,Vancouver Users
+"OU=Department Users,DC=sleepygeeks,DC=com",Toronto Users,Toronto Users
+"OU=Edmonton Users,OU=Department Users,DC=sleepygeeks,DC=com",Sales,Sales
+"OU=Edmonton Users,OU=Department Users,DC=sleepygeeks,DC=com",HR,HR
+"OU=Edmonton Users,OU=Department Users,DC=sleepygeeks,DC=com",Edmonton IT,Edmonton IT
+"OU=Edmonton Users,OU=Department Users,DC=sleepygeeks,DC=com",Finance,Finance
+"OU=Edmonton Users,OU=Department Users,DC=sleepygeeks,DC=com",Executive Staff,Executive Staff
+"OU=Edmonton Users,OU=Department Users,DC=sleepygeeks,DC=com",Project Advisory Group,Project Advisory Group
+"OU=Edmonton Users,OU=Department Users,DC=sleepygeeks,DC=com",Admins,Admins
+"OU=Vancouver Users,OU=Department Users,DC=sleepygeeks,DC=com",Vancouver IT,Vancouver IT
+"OU=Toronto Users,OU=Department Users,DC=sleepygeeks,DC=com",Toronto IT,Toronto IT
+"OU=Department Computers,DC=sleepygeeks,DC=com",Department Workstations,Department Workstations
+"OU=Department Workstations,OU=Department Computers,DC=sleepygeeks,DC=com",Edmonton Workstations,Edmonton Workstations
+"OU=Department Workstations,OU=Department Computers,DC=sleepygeeks,DC=com",Vancouver Workstations,Vancouver Workstations
+"OU=Department Workstations,OU=Department Computers,DC=sleepygeeks,DC=com",Toronto Workstations,Toronto Workstations
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",Domain Controllers,DC
+"OU=DC,OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",Edmonton Domain Controllers,Edmonton Domain Controllers
+"OU=DC,OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",Vancouver Domain Controllers,Vancouver Domain Controllers
+"OU=DC,OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",Toronto Domain Controllers,Toronto Domain Controllers
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",SQL,SQL
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",Linux,Linux
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",SharePoint,SharePoint
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",Exchange,Exchange
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",IIS,IIS
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",Certificate,Certificate
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",DFS,DFS
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",RDS,RDS
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",WDS,WDS
+"OU=Department Servers,OU=Department Computers,DC=sleepygeeks,DC=com",WSUS,WSUS
